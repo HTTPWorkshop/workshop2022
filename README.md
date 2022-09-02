@@ -52,7 +52,7 @@ Note that if necessary, we will limit representation from single companies and p
 
 All attendees will be expected to adhere to the [Conference Code of Conduct](http://confcodeofconduct.com/). We will publish a summary of what happens at the Workshop.
 
-Please [make statements of interest using this form](https://goo.gl/forms/NyF9xJYdt97lCYrs1) by **3 October 2022**.
+Please [make statements of interest using this form](https://forms.office.com/r/jEXGVTf3AT) by **3 October 2022**.
 
 
 ## Important Dates
