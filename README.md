@@ -77,5 +77,5 @@ The PC for the Workshop is:
 
 * Roy Fielding - fielding at gbiv dot com
 * Mark Nottingham - mnot at mnot dot net
-* Martin Thomson - mt@lowentropy.net
+* Martin Thomson - mt at lowentropy dot net
 
