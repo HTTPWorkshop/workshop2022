@@ -26,7 +26,7 @@ Finally, if you are a student working in a relevant area, this is a great opport
 
 ## When and Where
 
-The Workshop will be held in Amsterdam, Netherlands, 1-3 November 2022.
+The Workshop will be held in Oxford, UK, 1-3 November 2022.
 
 This year's Workshop venue is being generously sponsored by [Fastly](https://fastly.com/). Thanks!
 
